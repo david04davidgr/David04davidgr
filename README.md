@@ -24,13 +24,10 @@ A lo largo de mi formación y experiencia, he trabajado con las siguientes tecno
   - MySQL
   
 - **Herramientas de Desarrollo:**
-  - GitHub
-  - Visual Studio Code
+  - GitHub, Visual Studio Code
 
 - **Sistemas Operativos:**
-  - Windows
-  - Ubuntu
-  - Kali Linux
+  - Windows, Ubuntu, Kali Linux
 
 - **Ciberseguridad:**
   - Cursos de **Cisco Network Academy**
