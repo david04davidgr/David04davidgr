@@ -1,6 +1,6 @@
 ## David García Rodríguez 👋
 
-![Ciberseguridad](https://github.com/user-attachments/assets/5a8aaf57-ff8d-4e23-a8d9-39f5d420053c)
+![Ciberseguridad2](https://github.com/user-attachments/assets/d5bd404f-64cf-4cdb-b28d-931c7f98d355)
 
 
 # 💻 **Sobre Mí**
