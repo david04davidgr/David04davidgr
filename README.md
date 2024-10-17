@@ -1,8 +1,5 @@
 ## David García Rodríguez 👋
 
-![Ciberseguridad2](https://github.com/user-attachments/assets/d5bd404f-64cf-4cdb-b28d-931c7f98d355)
-
-
 # 💻 **Sobre Mí**
 
 Estoy graduado en **Sistemas Microinformáticos y Redes** y actualmente estoy cursando el grado superior en **Desarrollo de Aplicaciones Web**. Además, me formo de manera autodidacta en el campo de la **ciberseguridad** mediante cursos online, como **Cisco Network Academy**, libros como *"El arte de la invisibilidad"* de **Kevin Mitnick**, y ponencias de profesionales en el área.
