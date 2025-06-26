@@ -2,7 +2,7 @@
 
 # 💻 **Sobre Mí**
 
-Estoy graduado como **Técnico de Sistemas Microinformáticos y Redes** y **Técnico Superior en Desarrollo de Aplicaciones Web**. Además, me formo de manera autodidacta en el campo de la **ciberseguridad** mediante cursos online, como **Cisco Network Academy**, libros como *"El arte de la invisibilidad"* de **Kevin Mitnick**, y ponencias de profesionales en el área.
+Estoy graduado como *"Técnico de Sistemas Microinformáticos y Redes"* y *"Técnico Superior en Desarrollo de Aplicaciones Web"*. Además, me formo de manera autodidacta en el campo de la **ciberseguridad** mediante cursos online, como **Cisco Network Academy**, libros como *"El arte de la invisibilidad"* de **Kevin Mitnick**, y ponencias de profesionales en el área.
 
 Soy una persona apasionada por la tecnología y siempre estoy abierto a aprender nuevas herramientas, lenguajes y metodologías que me permitan mejorar mis habilidades y conocimientos. Me encanta resolver problemas, colaborar y crear mis propios proyectos web.
 
