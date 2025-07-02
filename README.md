@@ -4,7 +4,7 @@
 
 Estoy graduado como: 
   - *"Técnico de Sistemas Microinformáticos y Redes"* con una media de 8.3 y Mención honorífica en la asignatura de "Aplicaciones web"
-  -  *"Técnico Superior en Desarrollo de Aplicaciones Web"* con una media de 9 y un TFG calificado con un 10 [ver TFG](#).
+  -  *"Técnico Superior en Desarrollo de Aplicaciones Web"* con una media de 9 y un TFG calificado con un 10 [ver TFG](https://github.com/david04davidgr/TFG-PropiGest.git).
 
 Además, me formo de manera autodidacta en el campo de la **ciberseguridad** mediante cursos online, como **Cisco Network Academy**, libros como *"El arte de la invisibilidad"* de **Kevin Mitnick**, y ponencias de profesionales en el área.
 
